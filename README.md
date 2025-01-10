@@ -38,10 +38,10 @@ where:
 #### Example input:
 
    ```
-   tx@ do da nganəngar be amolia ana va dərnge.</br>
-   wd@ do da ngan-əngar be a-moli =a a-n =a va dərng =e </br>
-   ge@ now, here PURP 1SG.NPST-say at ART-person =SG.CL:MASC 3SG.M-with =PAT 3SG.M.POSS old =SG.CL:FEM </br>
-   tf@ Now I'm going to tell about a man and his wife.</br>
+   tx@ do da nganəngar be amolia ana va dərnge.
+   wd@ do da ngan-əngar be a-moli =a a-n =a va dərng =e
+   ge@ now, here PURP 1SG.NPST-say at ART-person =SG.CL:MASC 3SG.M-with =PAT 3SG.M.POSS old =SG.CL:FEM
+   tf@ Now I'm going to tell about a man and his wife.
    ```
 
 ## Output
